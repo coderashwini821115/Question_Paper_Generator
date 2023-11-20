@@ -1,0 +1,18 @@
+[
+  { "question": "What is the speed of light", "subject": "Physics", "topic": "Waves", "difficulty": "Easy", "marks": 5 },
+  { "question": "Who discovered gravity?", "subject": "Physics", "topic": "Gravity", "difficulty": "Medium", "marks": 5 },
+  { "question": "What is the capital of France?", "subject": "General Knowledge", "topic": "Geography", "difficulty": "Easy", "marks": 5 },
+  { "question": "Solve 2x + 5 = 15", "subject": "Mathematics", "topic": "Algebra", "difficulty": "Hard", "marks": 5 },
+  { "question": "Name the largest planet in our solar system", "subject": "Astronomy", "topic": "Planets", "difficulty": "Medium", "marks": 5 },
+  { "question": "Define kinetic energy and provide a formula for its calculation.", "subject": "Physics", "topic": "Mechanics", "difficulty": "Medium", "marks": 5 },
+  { "question": "Name three types of chemical bonds and explain how they differ.", "subject": "Chemistry", "topic": "Chemical Bonding", "difficulty": "Hard", "marks": 5 },
+  { "question": "In which organelle does photosynthesis take place in plant cells?", "subject": "Biology", "topic": "Cell Biology", "difficulty": "Easy", "marks": 5 },
+  { "question": "What is the difference between a scalar and a vector quantity?", "subject": "Physics", "topic": "Vectors", "difficulty": "Medium", "marks": 5 },
+  { "question": "Explain the concept of supply and demand in economics.", "subject": "Economics", "topic": "Microeconomics", "difficulty": "Easy", "marks": 5 },
+    { "question": "Explain the concept of wave-particle duality in quantum mechanics and provide an example.", "subject": "Physics", "topic": "Quantum Mechanics", "difficulty": "Hard", "marks": 5 },
+    { "question": "Discuss the factors influencing reaction rates in chemical kinetics and provide a real-world application.", "subject": "Chemistry", "topic": "Chemical Kinetics", "difficulty": "Hard", "marks": 5 },
+    { "question": "Elaborate on the process of transcription in molecular biology and its role in gene expression.", "subject": "Biology", "topic": "Molecular Biology", "difficulty": "Hard", "marks": 5 },
+    { "question": "Solve a system of three linear equations using matrices and Gauss elimination.", "subject": "Mathematics", "topic": "Linear Algebra", "difficulty": "Hard", "marks": 5 },
+    { "question": "Examine the concept of dark matter and its implications in the structure of the universe.", "subject": "Astronomy", "topic": "Cosmology", "difficulty": "Hard", "marks": 5 },
+    { "question": "Evaluate the impact of fiscal policy on inflation and unemployment in an economy.", "subject": "Economics", "topic": "Macroeconomics", "difficulty": "Hard", "marks": 5 }
+]
